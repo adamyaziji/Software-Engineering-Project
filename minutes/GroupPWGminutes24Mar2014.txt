@@ -1,0 +1,48 @@
+Minutes of Meeting: Adam, Daniel, Callum, Tom, Kris, Jones, Tom, Shannon
+
+-----------------------------------------------------------
+
+
+Date: 24th Mar '14
+
+Start time: 14:00
+End time: 16:45
+
+
+
+Date and time of next meeting: 25th Mar '14, 13:00
+
+Topics Discussed/Done:
+	-- Brief update on what has been done since last meeting.
+	-- Everyone was focusing on coding their classes.
+	-- Help was given between members on Othello.
+	-- Adam fully implemented the invalid move message in Othello.
+	-- Dan has been able to delete CSV files from folders and working on loading the game.
+	-- Shannon has figured an idea out on how to implement flipping the pieces.
+	-- Callum has combined code with Kris and project manager tasks (checking everyone is okay and organised).
+	-- Kris has started to merge other members code together.
+	-- Tom has been helping Shannon and Adam on Othello classes.
+
+
+Progress since last meeting:
+	-- Adam - Partial implementation of Othello invalid piece.
+	-- Dan - Changed from XML Marshalling to CSV for the saving and loading function.
+	-- Shannon - Trying to understand the pieces needed to be flipped.
+	-- Kris - Easy AI for Connect Four done and partial implementation of Hard AI done.
+	-- Callum - Menu screen done and starting animation.
+	-- Jones - Partial implementation of Connect Four winning pieces.
+	-- Tom - Completion of Easy AI and partial implementation of Hard AI
+	-- Yiwei - Completed showing the winning pieces for Othello.
+
+		
+
+
+TODO (for next meeting):
+	-- Adam - Highlight any available valid moves for Othello.
+	-- Dan - Finish save and load functions.
+	-- Shannon - Implement flipping pieces in Othello.
+	-- Kris - Finish Hard AI for Connect Four.
+	-- Callum - Attempt to get assigned work done. 
+	-- Jones - Implement wining pieces for Connect Four.
+	-- Tom - More implementation of Othello Hard AI.
+	-- Yiwei - Help jones to implement winning pieces for Connect Four.

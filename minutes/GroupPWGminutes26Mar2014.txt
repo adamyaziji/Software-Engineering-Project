@@ -1,0 +1,40 @@
+Minutes of Meeting: Adam, Daniel, Callum, Tom, Kris, Jones, Tom, Shannon
+-----------------------------------------------------------
+
+Date: 26th Mar '14
+
+Start time: 13:00
+End time: 16:00
+
+Date and time of next meeting: 27th Mar '14, 11:30
+
+Topics Discussed/Done:
+	-- Dan - Error checking save and loading an object from a file.
+	-- Tom - Helping Shannon with flipping Othello pieces.
+	-- Jones - Working on showing winning pieces for Connect Four.
+	-- Adam - Looking over the assignment sheet to make sure we are doing everything
+			  required.
+			  Editing contribution report.
+	-- Shannon - Still trying to figure out how to flip the pieces.
+	-- Callum - Working on animation of Connect Four dropping pieces.
+	-- Kris - Still working on Connect Four Hard AI.
+	-- Yiwei - Helping Jones with showing winning pieces for Connect Four.
+
+
+Progress since last meeting:
+	-- No progress made apart from :-
+	-- Callum - Added a loading bar to the menu. 
+	-- Tom - Finished all tasks assigned.
+	
+
+		
+
+TODO (for next meeting):
+	-- Adam - Edit contribution report, create tests for invalid move and comment.
+	-- Dan - Finish load function.
+	-- Shannon - Finish flipping pieces in Othello.
+	-- Kris - Finish Hard AI for Connect Four.
+	-- Callum - Finish Connect Four animation 
+	-- Jones - Fix winning piece count.
+	-- Tom - Help Shannon with flipping pieces.
+	-- Yiwei - Check implementation of classes.

@@ -1,0 +1,50 @@
+Minutes of Meeting: Adam, Daniel, Callum, Tom, Kris, Jones
+
+-----------------------------------------------------------
+
+
+Date: 17th Mar '14
+
+Start time: 14:00
+End time: 14:45
+
+
+
+Date and time of next meeting: 19th Mar '14, 11:00
+
+Topics Discussed/Done:
+	-- Shannon has notified us about her absence for this meeting.
+	-- Tom has notified us about reasons for missing previous meetings.
+	-- Discussed each task that is required to be completed for this assignment (A5).
+	-- Allocated each member a task to do:
+			
+			Adam - Show invalid move and maybe valid move.
+			Tom - Othello A.I.
+			Dan - Save, Load, Pause.
+			Jones - Show winning pieces (Connect Four).
+			Callum - Save, Load, Pause.
+			Kris - ConnectFour A.I, Animating moves in ConnectFour.
+			Shannon - Flipping Othello Pieces.
+			Yiwei - Show winning pieces (Othello). 
+	
+	-- Each member is keeping the same role as the previous assignment (A4).
+	-- How to implement the pause function (Dan, Callum).
+	-- Partial implementation to be done by Wednesday (apart from Shannon).
+	-- Use the folder called "Code used in their demo".
+	
+
+
+Progress since last meeting:
+	-- Reviewed their A3 document.
+
+		
+
+
+TODO (for next meeting):
+	-- Adam - partial implementation of show invalid move in both games.
+	-- Tom -  partial implementation of Othello A.I.
+	-- Dan - partial implementation of Save, Load and Pause.
+	-- Jones - partial implementation of show winning pieces (Connect Four).
+	-- Callum - partial implementation of Save, Load and Pause.
+	-- Kris - partial implementation of ConnectFour A.I. and animating moves in ConnectFour.
+	-- Yiwei - partial implementation of show wining pieces (Othello).

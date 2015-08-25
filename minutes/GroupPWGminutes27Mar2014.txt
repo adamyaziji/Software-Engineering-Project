@@ -1,0 +1,35 @@
+Minutes of Meeting: Adam, Daniel, Callum, Tom, Kris, Jones, Tom
+-----------------------------------------------------------
+
+Date: 27th Mar '14
+
+Start time: 11:00
+End time: 
+
+Date and time of next meeting: 1st April '14 13:00 
+
+Topics Discussed/Done:
+	-- Shannon has not been able to attend as she is on holiday.
+	-- Dan - Loading an object from a file.
+	-- Tom - Complete flipping Othello pieces.
+	-- Jones - Working on showing winning pieces for Connect Four.
+	-- Adam - Editing contribution report. Help Jones with showing winning pieces.
+	-- Callum - Helping Dan with save and load.
+				Produce a video demo.
+	-- Kris - Still working on Connect Four Hard AI.
+	-- Yiwei - Helping Jones with showing winning pieces for Connect Four.
+	-- Everyone is doing their contribution paragraphs and questions concerning their role.
+	-- Starting to merge all the altered codes together.
+	
+
+Progress since last meeting:
+	-- Adam - Comments for methods implemented.
+	-- Callum - Animation is nearly done.
+	-- Kris - Same progress as yesterday.
+	-- Tom - More progress of flipping pieces 
+	
+
+		
+
+TODO (for next meeting):
+	-- Look over things to do for the presentation.

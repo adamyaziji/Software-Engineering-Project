@@ -1,0 +1,54 @@
+Minutes of Meeting: Adam, Daniel, Callum, Tom, Kris, Jones, Yiwei, Shannon
+
+-----------------------------------------------------------
+
+
+Date: 17th Mar '14
+
+Start time: 13:00
+End time: 13:30
+
+
+
+Date and time of next meeting: 21st Mar '14, 10:30
+
+Topics Discussed/Done:
+	-- Dan has a problem with save function due to previous groups colour object code
+	   and has now moved on to the input screen for the time being
+	-- Tom has been helping Adam on invalid move for Connect Four so Adam can move on to 
+	   the valid move for Othello and work in parallel with Tom's Othello Computer Player task.
+	-- Adam has now fully implemented the Connect Four invalid move message.
+	-- Jones is having trouble making a new piece image with a star in the middle to show the
+	   winning piece.
+	-- Yiwei is having the same problem as Jones.
+	-- Callum has fully implemented the timer.
+	-- Kris has fully implemented an easy computer player for Connect Four working. 
+	
+
+
+Progress since last meeting:
+	-- Adam has partial implementation of Connect Four invalid move message
+	-- Tom has  created an Othello easy computer player class which selects a random move
+	   and added getValidMove method in OthelloBoard.
+	-- Dan has  partially implemented: Saver, Loader and LoadScreen class.
+	-- Jones has looked over code related to the Piece class and ideas how to implement 
+	   winning pieces.
+	-- Callum has fully implemented the pause function.
+	-- Kris has partially implemented of Connect Four easy player.
+	-- Yiwei has looked over code related to the Piece class and ideas how to implement 
+	   winning pieces
+
+		
+
+
+TODO (for next meeting):
+	-- Kris - partially implement Connect Four hard player.
+	-- Adam - partially implement Othello invalid move message.
+	-- Tom - partially implement Othello Easy AI.
+	-- Dan - partially implement Save and Load.
+	-- Callum - partially implement timer for both Connect Four and Othello.
+	-- Jones - partially implement Connect Four show winning pieces.
+	-- Yiwei - partially implement Othello show winning pieces.
+	-- Shannon - partially implement Othello winning pieces.
+	
+	

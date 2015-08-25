@@ -1,0 +1,43 @@
+Minutes of Meeting: Daniel, Callum, Kris, Jones, Shannon, Yiwei, Adam
+--------------------------------------------------------------------------
+
+Date: 21 Mar '14
+Start Time: 10:30	
+End Time: 13:00
+
+Date and time of next meeting: 24th Mar 14:00
+
+Topics Discussed/Done:
+	-- Callum and Dan went to see Bob to ask him about XML marshalling
+	-- Kris - Continued to work on AI for ConnectFour
+			- Made classes for easy computer and computer player 
+		 	  and ConnectFour easy player
+	-- Shannon - Partially implemented the animation for Othello
+			   - Made it so the pieces don't disapear 
+	-- Adam - Helping Shannon with flipping pieces.
+	-- Jones - continuing work with showing Connect Four winning pieces.
+	-- Yiwei - continuing work with showing Othello winning pieces.
+	-- Dan - continuing work on Save and Load.
+	
+
+Progress since last meeting:
+	-- Kris - progress with the AI of ConnectFour game.
+	-- Callum - Made progress on ConnectFour animation.
+	-- Dan - Revampted save and load.
+	-- Shannon -- Created new method for flipping.
+	-- Yiwei & Jones -- Worked on loading images into ConnectFourGame 
+			    and OthelloGame.
+	-- Adam - partially implemented Othello invalid move message.
+	
+			    
+
+TODO (for next meeting):
+
+	-- Dan - Change from XML Marshalling to CSV for the saving and loading function.
+	-- Adam - More implementation of Othello invalid move message.
+	-- Tom - Partial implementation of Hard AI for Othello.
+	-- Kris - Complete Easy AI for Connect Four.
+	-- Callum - Complete Menu start screen and starting animation.
+	-- Shannon - Implement flipping pieces in Othello.
+	-- Jones - Full implementation of Connect Four winning pieces.
+	-- Yiwei - Full implementation of Othello winning pieces.
